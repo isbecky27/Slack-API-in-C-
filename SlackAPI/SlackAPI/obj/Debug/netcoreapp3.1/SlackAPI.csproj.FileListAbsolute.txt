@@ -1,0 +1,15 @@
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\obj\Debug\netcoreapp3.1\SlackAPI.csprojAssemblyReference.cache
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\obj\Debug\netcoreapp3.1\SlackAPI.AssemblyInfoInputs.cache
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\obj\Debug\netcoreapp3.1\SlackAPI.AssemblyInfo.cs
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\obj\Debug\netcoreapp3.1\SlackAPI.csproj.CoreCompileInputs.cache
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\bin\Debug\netcoreapp3.1\SlackAPI.exe
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\bin\Debug\netcoreapp3.1\SlackAPI.deps.json
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\bin\Debug\netcoreapp3.1\SlackAPI.runtimeconfig.json
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\bin\Debug\netcoreapp3.1\SlackAPI.runtimeconfig.dev.json
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\bin\Debug\netcoreapp3.1\SlackAPI.dll
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\bin\Debug\netcoreapp3.1\SlackAPI.pdb
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\obj\Debug\netcoreapp3.1\SlackAPI.csproj.CopyComplete
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\obj\Debug\netcoreapp3.1\SlackAPI.dll
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\obj\Debug\netcoreapp3.1\SlackAPI.pdb
+C:\Users\becky.tseng25\Desktop\SlackApi\SlackAPI\SlackAPI\obj\Debug\netcoreapp3.1\SlackAPI.genruntimeconfig.cache
